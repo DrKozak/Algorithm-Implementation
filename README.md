@@ -1,2 +1,2 @@
 # Algorithm-Implementation
-Algorithm projects written at University of Pittsburgh
+CS1501 projects written at University of Pittsburgh
